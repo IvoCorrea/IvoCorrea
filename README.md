@@ -10,17 +10,7 @@ Currently, I'm focused on enhancing my skills as a developer, particularly in Ja
 
 ## :books: Current Learning
 
-I'm diving deeper into the intricacies of backend development with Node.js
-## :briefcase: Professional Objective
-
-In the future, I see myself working as a fullstack developer, contributing to meaningful projects, and engaging in tech communities. I'm always seeking to learn and grow in a dynamic environment.
-
-## :mailbox: Get in Touch
-
-Feel free to reach out.
-
-- LinkedIn: [Ivo Corrêa](https://www.linkedin.com/in/ivo-aurelio-c-albuquerque-634b22263/)
-- Email: [ivocorrea30@gmail.com]
+I'm diving deeper in the backend development with Node.js using Discord.js modules
 
 <!---
 IvoCorrea/IvoCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
