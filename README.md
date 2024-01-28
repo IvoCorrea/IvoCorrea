@@ -1,4 +1,4 @@
-## :wave: Hi, I'm Ivo! 
+## :wave: Hi! 
 
 Currently, I'm focused on enhancing my skills as a developer, particularly in JavaScript on front and backend with Node.js.
 
