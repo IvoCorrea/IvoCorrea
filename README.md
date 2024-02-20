@@ -5,8 +5,8 @@ Currently, I'm focused on enhancing my skills as a developer, particularly in Ja
 ## :wrench: Technologies & Tools
 
 - JavaScript | Node.js
-- Express, HTML, CSS
-- [Discord.js | Git]
+- Express, fastify, HTML, CSS
+- [Discord.js | Git | Prisma]
 
 ## :books: Current Learning
 
