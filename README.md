@@ -1,6 +1,6 @@
 ## :wave: Hi! 
 
-Currently, I'm focused on enhancing my skills as a developer, particularly in JavaScript on front and backend with Node.js.
+Currently, I'm BackEnd developer enhancing my skills with Node.js.
 
 ## :wrench: Technologies & Tools
 
@@ -11,6 +11,7 @@ Currently, I'm focused on enhancing my skills as a developer, particularly in Ja
 ## :books: Current Learning
 
 I'm diving deeper in the backend development with Node.js
+And i'm studying Data analysis with Python
 
 <!---
 IvoCorrea/IvoCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
