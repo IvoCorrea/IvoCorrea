@@ -4,9 +4,9 @@ Currently, I'm BackEnd developer enhancing my skills with Node.js.
 
 ## :wrench: Technologies & Tools
 
-- JavaScript | Node.js
-- Express, fastify, HTML, CSS
-- [Discord.js | Git | Prisma]
+- Languages - JavaScript | Python | C#
+- Frameworks - Express.js, fastify.js, .Net
+- Techs [Node.js | Discord.js | Git | Prisma]
 
 ## :books: Current Learning
 
