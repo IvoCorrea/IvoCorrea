@@ -1,17 +1,16 @@
 ## :wave: Hi! 
 
-Currently, I'm BackEnd developer enhancing my skills with Node.js.
+Currently, I'm BackEnd developer with Node.js.
 
 ## :wrench: Technologies & Tools
 
 - Languages - JavaScript | Python | C#
-- Frameworks - Express.js, fastify.js, .Net
-- Techs [Node.js | Discord.js | Git | Prisma]
+- Frameworks - Express.js.
+- Techs [Node.js | Discord.js | Git | Mysql]
 
 ## :books: Current Learning
 
-I'm diving deeper in the backend development with Node.js
-And i'm studying Data analysis with Python
+I'm diving deeper in the backend development with Express.js
 
 <!---
 IvoCorrea/IvoCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
