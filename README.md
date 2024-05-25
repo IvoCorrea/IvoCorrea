@@ -6,7 +6,7 @@ Currently, I'm BackEnd developer with Node.js.
 
 - Languages - JavaScript | Python | C#
 - Frameworks - Express.js.
-- Techs [Node.js | Discord.js | Git | Mysql]
+- Techs [Sequelize.js | Node.js | Discord.js | Git | Mysql]
 
 ## :books: Current Learning
 
