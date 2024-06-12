@@ -4,13 +4,13 @@ Currently, I'm BackEnd developer with Node.js.
 
 ## :wrench: Technologies & Tools
 
-- Languages - JavaScript | Python | C#
+- Languages - JavaScript | Typescript | C#
 - Frameworks - Express.js.
-- Techs [Sequelize.js | Node.js | Discord.js | Git | Mysql]
+- Techs [Prisma | Sequelize | Node.js | Discord.js | Git | Mysql]
 
 ## :books: Current Learning
 
-I'm diving deeper in the backend development with Express.js
+I'm diving deeper in the backend development with Typescript
 
 <!---
 IvoCorrea/IvoCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
