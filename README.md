@@ -1,12 +1,11 @@
 ## :wave: Hi! 
 
-Currently, I'm BackEnd developer with Node.js.
+Currently, I'm BackEnd developer.
 
 ## :wrench: Technologies & Tools
 
-- Languages - JavaScript | Typescript | Java
-- Frameworks - Express.js
-- Techs [Prisma | Node.js | Discord.js | Git | Mysql]
+- Languages - Java | Typescript
+- Frameworks - Spring Boot | Express.js  
 
 ## :books: Current Learning
 
