@@ -22,15 +22,6 @@ Sou estudante de Engenharia de Software. Backend, com experiência prática em J
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IvoCorrea&show_icons=true&theme=radical" alt="IvoCorrea GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoCorrea&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="center">
