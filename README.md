@@ -1,14 +1,14 @@
 <h1 align="center"> Ivo Aurelio Corrêa </h1>
 
 <p align="center">
-  <i>Desenvolvedor Backend | Estudante de Engenharia de Software</i>
+  <i>Desenvolvedor Backend | Estudante de Ciência da Computação</i>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software. Backend, com experiência prática em Java, Spring Boot, Node.js e TypeScript.
+Sou estudante de Ciência da Computação. Backend, com experiência prática em Java, Spring Boot, Node.js e TypeScript.
 
 ---
 
