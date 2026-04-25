@@ -26,8 +26,8 @@ Sou estudante de Ciência da Computação. Fullstack, com experiência prática 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvoCorrea&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoCorrea&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IvoCorrea&theme=radical&show_icons=true&hide_title=true&commits_year=2026" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoCorrea&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
