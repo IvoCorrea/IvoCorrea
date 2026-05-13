@@ -19,16 +19,9 @@ Sou estudante de Ciência da Computação. Fullstack, com experiência prática 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,angular,nestjs,kafka,postgresql,mysql,postgres,git,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,angular,rabbitmq,postgresql,mysql,git,vscode&perline=5" />
   </a>
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvoCorrea&theme=radical&show_icons=true&hide_title=true&commits_year=2026" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoCorrea&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
 ---
 
