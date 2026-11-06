@@ -14,7 +14,6 @@ Sou estudante de Ciência da Computação e desenvolvedor Fullstack, com experi�
 
 - 🎵 Atualmente construindo o **[Muly](https://muly.xyz)**, uma rede social para quem ama música
 - 🏫 Desenvolvendo o **[Ensalamento](https://ensalamento-beta.vercel.app)**, projeto da faculdade em Next.js
-- 🤖 Explorando automação e agentes de IA com **n8n**, **Docker** e **pgvector**
 
 ---
 
@@ -22,7 +21,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Fullstack, com experi�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,python,angular,nextjs,react,tailwind,rabbitmq,postgresql,mysql,prisma,supabase,docker,git,vercel,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,angular,nextjs,tailwind,postgresql,prisma,supabase,docker,vercel&perline=6" />
   </a>
 </p>
 
@@ -41,7 +40,7 @@ Rede social para amantes de música: catalogue o que você ouve, avalie álbuns 
 ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🏫 [Ensalamento](https://github.com/IvoCorrea/ensalamento) — [demo](https://ensalamento-beta.vercel.app)
+### 🏫 [Soma](https://github.com/IvoCorrea/ensalamento) — [demo](https://ensalamento-beta.vercel.app)
 Projeto da faculdade: sistema para alocação de horários de aulas e salas, com validação de conflitos e geração automática de grade.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -52,40 +51,13 @@ Projeto da faculdade: sistema para alocação de horários de aulas e salas, com
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### 🤖 [Automation Chatbot](https://github.com/IvoCorrea/automation-chatbot)
-Agente de WhatsApp para imobiliárias: API em Spring Boot, orquestração do agente com n8n, Postgres + pgvector para leads e catálogo de imóveis, Chatwoot como inbox do corretor e Caddy com TLS.
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 📈 meuPortfolio — [backend](https://github.com/IvoCorrea/meuPortfolio-backend) · [frontend](https://github.com/IvoCorrea/meuPortfolio-frontend)
-Gerenciador de portfólios de investimento: API RESTful em Java/Spring Boot e aplicação Angular com autenticação JWT.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
 <details>
 <summary><b>Outros projetos</b></summary>
 
 - 🎬 [HB Produções](https://github.com/IvoCorrea/hb-producoes-angular) — landing page em Angular 20 + Tailwind com SSR · [site](https://hb-producoes-landing-page.vercel.app)
 - 🗳️ [API Polls](https://github.com/IvoCorrea/API-Polls-typescript) — API de enquetes com Fastify e TypeScript
-- ✅ [Spring To-Do API](https://github.com/IvoCorrea/spring-toDo-apiRest) — API REST com Spring Boot, DTOs e Spring Data JPA
-- 📚 [MD Mangás API](https://github.com/IvoCorrea/MD-Mangas-APIRest) — contribuição em rotas REST, testes unitários e documentação
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvoCorrea&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoCorrea&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
 
 ---
 
